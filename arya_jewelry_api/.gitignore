@@ -1,0 +1,21 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.env
+
+# Virtual environment
+venv/
+.env/
+
+# Django-related files
+db.sqlite3
+*.log
+
+# Node modules (if you use frontend tools like npm)
+node_modules/
+
+# IDE and editor settings
+.vscode/
+.idea/
+.DS_Store
